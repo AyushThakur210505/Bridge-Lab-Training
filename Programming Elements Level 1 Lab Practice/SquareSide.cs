@@ -13,8 +13,7 @@ namespace Programming_Elements_Level_1_Lab_Practice
 
             double side = perimeter / 4;
 
-            Console.WriteLine("The length of the side is " + side +
-                              " whose perimeter is " + perimeter);
+            Console.WriteLine("The length of the side is " + side +" whose perimeter is " + perimeter);
         }
     }
 }

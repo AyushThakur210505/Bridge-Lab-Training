@@ -13,8 +13,7 @@ namespace Programming_Elements_Level_1_Lab_Practice
 
             double miles = kilometers / 1.6;
 
-            Console.WriteLine("The total miles is " + miles.ToString("F2") +
-                              " mile for the given " + kilometers + " km");
+            Console.WriteLine("The total miles is " + miles.ToString("F2") +" mile for the given " + kilometers + " km");
         }
     }
 }

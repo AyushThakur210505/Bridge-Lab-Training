@@ -15,9 +15,7 @@ namespace Programming_Elements_Level_1_Lab_Practice
             int feet = (int)(totalInches / 12);
             double inches = totalInches % 12;
 
-            Console.WriteLine("Your Height in cm is " + centimeters +
-                              " while in feet is " + feet +
-                              " and inches is " + inches.ToString("F2"));
+            Console.WriteLine("Your Height in cm is " + centimeters +" while in feet is " + feet +" and inches is " + inches.ToString("F2"));
         }
     }
 }

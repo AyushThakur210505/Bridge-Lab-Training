@@ -35,11 +35,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
             double totalDistance = distanceOne + distanceTwo;
             int totalTime = timeOne + timeTwo;
 
-            Console.WriteLine("The Total Distance travelled by " + name +
-                              " from " + fromCity + " to " + toCity +
-                              " via " + viaCity + " is " + totalDistance +
-                              " km and the Total Time taken is " +
-                              totalTime + " minutes");
+            Console.WriteLine("The Total Distance travelled by " + name +" from " + fromCity + " to " + toCity +" via " + viaCity + " is " + totalDistance +" km and the Total Time taken is " +totalTime + " minutes");
         }
     }
 }

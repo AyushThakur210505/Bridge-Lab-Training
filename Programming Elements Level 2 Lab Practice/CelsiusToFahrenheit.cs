@@ -13,10 +13,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
 
             double fahrenheit = (celsius * 9 / 5) + 32;
 
-            Console.WriteLine("The " + celsius +
-                              " Celsius is " +
-                              fahrenheit.ToString("F2") +
-                              " Fahrenheit");
+            Console.WriteLine("The " + celsius +" Celsius is " +fahrenheit.ToString("F2") +" Fahrenheit");
         }
     }
 }

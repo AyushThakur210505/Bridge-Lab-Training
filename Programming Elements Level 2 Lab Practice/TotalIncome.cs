@@ -15,9 +15,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
 
             double totalIncome = salary + bonus;
 
-            Console.WriteLine("The salary is INR " + salary +
-                              " and bonus is INR " + bonus +
-                              ". Hence Total Income is INR " + totalIncome);
+            Console.WriteLine("The salary is INR " + salary +" and bonus is INR " + bonus +". Hence Total Income is INR " + totalIncome);
         }
     }
 }

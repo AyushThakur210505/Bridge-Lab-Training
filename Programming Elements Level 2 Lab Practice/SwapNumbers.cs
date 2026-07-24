@@ -18,8 +18,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
             numberOne = numberTwo;
             numberTwo = temp;
 
-            Console.WriteLine("The swapped numbers are " +
-                              numberOne + " and " + numberTwo);
+            Console.WriteLine("The swapped numbers are " +numberOne + " and " + numberTwo);
         }
     }
 }

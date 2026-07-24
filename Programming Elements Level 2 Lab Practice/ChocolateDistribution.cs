@@ -17,10 +17,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
             int chocolatesPerChild = chocolates / children;
             int remainingChocolates = chocolates % children;
 
-            Console.WriteLine("The number of chocolates each child gets is " +
-                              chocolatesPerChild +
-                              " and the number of remaining chocolates is " +
-                              remainingChocolates);
+            Console.WriteLine("The number of chocolates each child gets is " +chocolatesPerChild +" and the number of remaining chocolates is " +remainingChocolates);
         }
     }
 }

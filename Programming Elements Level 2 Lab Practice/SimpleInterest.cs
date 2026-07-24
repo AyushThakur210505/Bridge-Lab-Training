@@ -19,10 +19,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
 
             double simpleInterest = (principal * rate * time) / 100;
 
-            Console.WriteLine("The Simple Interest is " + simpleInterest +
-                              " for Principal " + principal +
-                              ", Rate of Interest " + rate +
-                              " and Time " + time);
+            Console.WriteLine("The Simple Interest is " + simpleInterest +" for Principal " + principal +", Rate of Interest " + rate +" and Time " + time);
         }
     }
 }

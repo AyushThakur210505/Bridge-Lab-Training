@@ -17,10 +17,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
             int quotient = numberOne / numberTwo;
             int remainder = numberOne % numberTwo;
 
-            Console.WriteLine("The Quotient is " + quotient +
-                              " and Remainder is " + remainder +
-                              " of two numbers " + numberOne +
-                              " and " + numberTwo);
+            Console.WriteLine("The Quotient is " + quotient +" and Remainder is " + remainder +" of two numbers " + numberOne +" and " + numberTwo);
         }
     }
 }

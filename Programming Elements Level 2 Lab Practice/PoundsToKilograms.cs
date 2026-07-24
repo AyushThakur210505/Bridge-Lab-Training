@@ -13,10 +13,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
 
             double kilograms = pounds / 2.2;
 
-            Console.WriteLine("The weight of the person in pounds is " +
-                              pounds +
-                              " and in kg is " +
-                              kilograms.ToString("F2"));
+            Console.WriteLine("The weight of the person in pounds is " +pounds +" and in kg is " +kilograms.ToString("F2"));
         }
     }
 }

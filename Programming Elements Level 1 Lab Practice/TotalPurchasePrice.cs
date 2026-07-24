@@ -16,10 +16,7 @@ namespace Programming_Elements_Level_1_Lab_Practice
 
             double totalPrice = unitPrice * quantity;
 
-            Console.WriteLine("The total purchase price is INR " +
-                              totalPrice + " if the quantity " +
-                              quantity + " and unit price is INR " +
-                              unitPrice);
+            Console.WriteLine("The total purchase price is INR " +totalPrice + " if the quantity " +quantity + " and unit price is INR " +unitPrice);
         }
     }
 }

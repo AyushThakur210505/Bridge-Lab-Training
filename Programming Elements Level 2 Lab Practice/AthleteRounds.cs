@@ -20,9 +20,7 @@ namespace Programming_Elements_Level_2_Lab_Practice
             double perimeter = sideOne + sideTwo + sideThree;
             double rounds = 5000 / perimeter;
 
-            Console.WriteLine("The total number of rounds the athlete will run is " +
-                              rounds.ToString("F2") +
-                              " to complete 5 km");
+            Console.WriteLine("The total number of rounds the athlete will run is " +rounds.ToString("F2") +" to complete 5 km");
         }
     }
 }
