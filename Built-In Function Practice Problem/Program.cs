@@ -6,7 +6,19 @@ namespace Built_In_Function_Practice_Problem
     {
         static void Main(string[] args)
         {
-            TimeZones.display();
+            //TimeZones.display();
+            //DateArithmetic.display();
+            //DateFormatting.display();
+            //DateComparison.display();
+            //NumberGuessingGame.display();
+            //MaximumOfThreeNumbers.display();
+            //PrimeNumberChecker.display();
+            //FibonacciSequenceGenerator.display();
+            //PalindromeChecker.display();
+            //FactorialUsingRecursion.display();
+            //GCDAndLCMCalculator.display();
+            //TemperatureConverter.display();
+            BasicCalculator.display();
         }
     }
 }
