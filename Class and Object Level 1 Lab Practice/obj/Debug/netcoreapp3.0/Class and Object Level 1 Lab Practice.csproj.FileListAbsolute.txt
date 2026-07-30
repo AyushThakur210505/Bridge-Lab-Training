@@ -1,0 +1,13 @@
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.exe
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.deps.json
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.runtimeconfig.json
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.runtimeconfig.dev.json
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.dll
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\bin\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.pdb
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.AssemblyInfoInputs.cache
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.AssemblyInfo.cs
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.csproj.CoreCompileInputs.cache
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.dll
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.pdb
+D:\Bridge Lab\Object-Oriented-Programming\Class and Object Level 1 Lab Practice\obj\Debug\netcoreapp3.0\Class and Object Level 1 Lab Practice.genruntimeconfig.cache
