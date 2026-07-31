@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class and Object Level 1 Lab Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943ac2fd1681c15abd79ca05b7eef967bcd8e9ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cada0cd503f1bf29a221bcafecdcbd6aef66d86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class and Object Level 1 Lab Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class and Object Level 1 Lab Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
