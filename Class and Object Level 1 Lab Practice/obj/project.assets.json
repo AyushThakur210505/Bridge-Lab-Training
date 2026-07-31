@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bridge Lab\\Core-Programming\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\Class and Object Level 1 Lab Practice.csproj",
+      "projectUniqueName": "D:\\Bridge Lab\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\Class and Object Level 1 Lab Practice.csproj",
       "projectName": "Class and Object Level 1 Lab Practice",
-      "projectPath": "D:\\Bridge Lab\\Core-Programming\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\Class and Object Level 1 Lab Practice.csproj",
+      "projectPath": "D:\\Bridge Lab\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\Class and Object Level 1 Lab Practice.csproj",
       "packagesPath": "C:\\Users\\satpa\\.nuget\\packages\\",
-      "outputPath": "D:\\Bridge Lab\\Core-Programming\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\obj\\",
+      "outputPath": "D:\\Bridge Lab\\Object-Oriented-Programming\\Class and Object Level 1 Lab Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
