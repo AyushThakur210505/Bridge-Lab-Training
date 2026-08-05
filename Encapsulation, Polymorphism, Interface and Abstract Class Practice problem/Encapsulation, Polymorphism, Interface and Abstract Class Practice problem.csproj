@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Encapsulation__Polymorphism__Interface_and_Abstract_Class_Practice_problem</RootNamespace>
+  </PropertyGroup>
+
+</Project>
